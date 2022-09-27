@@ -1,4 +1,4 @@
-//Elizabeth perlaza
+//ELIZABETH PERLAZA
 //Creado por stalin
 #include<iostream>
 using namespace std;
